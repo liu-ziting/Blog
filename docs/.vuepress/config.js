@@ -10,7 +10,7 @@ module.exports = {
         lineNumbers: true
     },
     serviceWorker: true,
-    themeConfig: {    
+    themeConfig: {
         logo: '/xiao.png',
         lastUpdated: 'lastUpdate', // string | boolean
         nav: [
@@ -37,7 +37,7 @@ module.exports = {
                     sidebarDepth: 1,    // 可选的, 默认值是 1
                     children: [
 												['frontend/Adminair.md', 'Vue+El构建的后台管理系统'],
-												['frontend/Wiki.md', '基于GitBook搭建的知识库管理系统'],
+												['frontend/Layui.md', '基于Layui的博客后台管理系统'],
 												['frontend/Vue.md', 'Vue相关开源项目库汇总'],
                         ['frontend/Jrx.md', '前端兼容性问题总结'],
 												['frontend/Js.md', '常用js方法整理'],

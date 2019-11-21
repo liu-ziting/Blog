@@ -131,7 +131,7 @@ adminAirELUI
   [9]: http://tc.lihail.cn/adminLogin.png
   [10]: http://tc.lihail.cn/adminnewList.png
   [11]: http://tc.lihail.cn/adminuser.png
-  [12]: http://tc.lihail.cn/adminbig.png
+  [12]: http://tc.lihail.cn/adminbig1.png
   [13]: http://tc.lihail.cn/adminjs.png
   [14]: http://tc.lihail.cn/admin123.png
   [15]: http://adminair.zhangs.ink/adminAirDemo/index.html#/Login
