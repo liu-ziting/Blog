@@ -22,6 +22,7 @@ module.exports = {
                     { text: '文章', link: '/pages/article/frontend/Adminair.md' },
                     { text: '软件', link: '/pages/software/index.md' },
 										{ text: '项目', link: '/pages/project.md' },
+										{ text: '航拍', link: '/pages/video.md' },
                 ]
             },
 						{ text: '关于我', link: '/pages/about.md' },
@@ -83,6 +84,14 @@ module.exports = {
 												['tool/Natapp.md', '1、内网穿透工具natapp'],
 												['tool/Eruda.md', '2、移动端调试神器eruda'],
 												['tool/Vconsole.md', '3、移动端调试神器vconsole'],
+								    ]
+								},
+								{
+								    title: '网络',
+								    collapsable: false, // 可选的, 默认值是 true,
+										sidebarDepth: 1,    // 可选的, 默认值是 1
+								    children: [
+												['network/basic.md', '1、网络基础知识']
 								    ]
 								},
 								{

@@ -12,6 +12,21 @@
 
 **我一直致力于成为自由职业者，不受时空的束缚。**
 
+<script>
+  (function(w, d, s, g, o) {
+    var x = document.createElement(s)
+    ,s = document.getElementsByTagName(s)[0];
+    w[g] = o;
+    x.async = true;
+    x.charset = 'utf-8';
+    x.src = 'https://cdn.xiankefu.com/dist/xiankefu.js';
+    s.parentNode.insertBefore(x, s);
+  })(window, document, 'script', 'XIANKEFU_GLOBAL', {
+    bid: 'e63448c16a56b120e1977a3e1d3aa216' 
+   ,csid: 'ad523c174315357fcca11154a40548df'  
+  });
+</script>
+
 
 
 
